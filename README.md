@@ -10,6 +10,7 @@ It is designed to simulate real-world health assistance by detecting common heal
 ## screenshots
 
 <img width="112" alt="image" src="https://github.com/user-attachments/assets/a583a490-087e-433f-9671-2e44e502b5ec" />
+
 - This is my app logo. It represents my app identity.  
 
 
